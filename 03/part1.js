@@ -1,5 +1,5 @@
-var fs = require("fs");
-var input = fs.readFileSync("./input.txt", "utf8");
+var fs = require('fs');
+var input = fs.readFileSync('./input.txt', 'utf8');
 
 // starts by giving gift at (0,0)
 var uniqueHouses = { '0,0': 1 };
