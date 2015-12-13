@@ -15,6 +15,7 @@ var lines = input.split('\n');
 // Test One:
 // does it have 3 vowels?
 function vowelChecker(line) {
+  'use strict';
   var vowelChecker = 0;
 
   for (var n = 0; n < line.length; n++) {
