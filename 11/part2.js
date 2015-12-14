@@ -1,4 +1,6 @@
-var input = 'hxbxwxba';
+// answer to part 1 was: hxbxxyzz
+// so the next valid entry is:
+var input = 'hxcaabcc';
 
 // test letter consecutiveness
 var testOne = /(abc|bcd|cde|def|efg|fgh|pqr|qrs|rst|stu|tuv|uvw|vwx|wxy|xyz)/;
